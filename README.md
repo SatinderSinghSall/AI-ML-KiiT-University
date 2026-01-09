@@ -29,8 +29,6 @@ A **comprehensive, step-by-step roadmap** to master **Artificial Intelligence (A
 Beginner → Intermediate → Advanced → Specializations → Real-World Projects
 ```
 
-````
-
 ---
 
 ## 🟢 1. Beginner Level – Foundations
@@ -247,4 +245,3 @@ If you find this roadmap helpful:
 ---
 
 ### ✨ “AI is not the future — it is the present. Start building today.”
-````
